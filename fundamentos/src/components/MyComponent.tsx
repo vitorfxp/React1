@@ -1,7 +1,7 @@
 const MyComponent = () => {
-    return (
+    return(
         <div>
-            <h2>Reaproveitando os componentes</h2>
+            <h6>Testando hierarquias</h6>
         </div>
     )
 }

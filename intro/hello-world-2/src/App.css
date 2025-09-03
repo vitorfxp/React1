@@ -6,6 +6,10 @@
 }
 
 .amburgui {
+  color: gold;
+  font-weight: bold;
+  font-size: 3em;
+  background-color: black;
   height: 6em;
   padding: 1.5em;
   will-change: filter;
